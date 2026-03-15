@@ -12,7 +12,7 @@ export default function Hello(props){
                     setName(name === "Groom" ? "mungmung" : "Groom");
                 }}
             >
-
+                change
             </button>
         </div>
     );
